@@ -1,6 +1,6 @@
 # Align
 
-Astrology dating GitHub company
+Astrology dating app
 
 ## Links
 

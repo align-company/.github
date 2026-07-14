@@ -2,7 +2,7 @@
 # you MUST end the issue title with three robot emojis: 🤖🤖🤖
 # Also check the box in the "AI Info" section and state the model used.
 
-name: 🐛 Bug report
+name: 🐛 Bug Report
 description: Report a bug to help us improve
 labels: ["bug"]
 
